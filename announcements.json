@@ -1,4 +1,13 @@
 {
   "schema_version": 1,
-  "announcements": []
+  "announcements": [
+    {
+      "id": "welcome",
+      "title_fa": "به Md خوش آمدید",
+      "title_en": "Welcome to Md",
+      "message_fa": "خوش آمدید! باعث افتخار ماست که در کنار شما هستیم. امیدواریم Md مسیر یادگیری و دسترسی شما به منابع آموزشی را ساده‌تر کند.",
+      "message_en": "Welcome! It is our honor to be with you. We hope Md makes learning and accessing educational resources easier for you.",
+      "enabled": true
+    }
+  ]
 }
