@@ -1,14 +1,34 @@
+
 {
-  "schema_version": 1,
   "resources": [
     {
-      "id": "farzandan-physics-session-1",
-      "title_fa": "فیلم درسی فرزندان فیزیک - جلسه اول",
-      "title_en": "Farzandan Physics Lesson - Session 1",
-      "description_fa": "منبع آزمایشی برای بررسی بارگذاری و دانلود ویدئو در برنامه Md.",
-      "description_en": "Test resource for checking video loading and downloading in Md.",
+      "id": "shojaei-notes",
+      "title_fa": "جزوه شجاعی",
+      "title_en": "Shojaei Study Notes",
+      "description_fa": "جزوه آموزشی شجاعی با فرمت PDF.",
+      "description_en": "Shojaei study notes in PDF format.",
+      "type": "pdf",
+      "url": "https://drive.google.com/uc?id=1NAZj-6pZUHmMQXUiHQIJq6tGx7EQlUkW&export=download",
+      "enabled": true
+    },
+    {
+      "id": "shojaei-kinematics-tests",
+      "title_fa": "شجاعی؛ آموزش حرکت‌شناسی + تست",
+      "title_en": "Shojaei Kinematics Lessons and Tests",
+      "description_fa": "ویدئوی آموزشی حرکت‌شناسی همراه با تست.",
+      "description_en": "Educational video covering kinematics and practice tests.",
       "type": "video",
-      "url": "https://drive.google.com/uc?id=1mxk02MOtDzPmU3KtdKr-IUVzI2_icwFX&export=download",
+      "url": "https://drive.google.com/uc?id=1BgO_KccEn9qz6LMoxGRxMnh801roGaUP&export=download",
+      "enabled": true
+    },
+    {
+      "id": "break-music",
+      "title_fa": "آهنگ / موسیقی استراحت",
+      "title_en": "Break Music",
+      "description_fa": "موسیقی برای زمان استراحت.",
+      "description_en": "Music to listen to during breaks.",
+      "type": "audio",
+      "url": "https://drive.google.com/uc?id=15a8uKFOJvYJe5iocSLM4M2PxRQ54t7zb&export=download",
       "enabled": true
     }
   ]
