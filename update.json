@@ -1,8 +1,8 @@
 {
-  "schema_version": 1,
+  "schema_version": 2,
   "latest_version": "1.0.0",
-  "minimum_supported_version": "1.1.0",
+  "minimum_supported_version": "1.0.0",
   "update_required": false,
   "download_url": "https://raw.githubusercontent.com/vutem945-dev/Md-download/refs/heads/main/Md-1.0.0.apk",
-  "release_notes": "اولین نسخه برنامه Md."
+  "release_notes": "بهترین برنامه در زمان قطعی نت Md."
 }
