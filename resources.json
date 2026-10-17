@@ -1,11 +1,12 @@
 {
+  "schema_version": 1,
   "resources": [
     {
       "id": "shojaei-notes",
       "title_fa": "جزوه شجاعی",
-      "title_en": "Shojaei Study Notes",
-      "description_fa": "جزوه آموزشی شجاعی با فرمت PDF.",
-      "description_en": "Shojaei study notes in PDF format.",
+      "title_en": "Shojaei Notes",
+      "description_fa": "جزوه آموزشی شجاعی",
+      "description_en": "Shojaei educational notes",
       "type": "pdf",
       "url": "https://drive.google.com/uc?id=1NAZj-6pZUHmMQXUiHQIJq6tGx7EQlUkW&export=download",
       "enabled": true
@@ -13,9 +14,9 @@
     {
       "id": "shojaei-kinematics-tests",
       "title_fa": "شجاعی؛ آموزش حرکت‌شناسی + تست",
-      "title_en": "Shojaei Kinematics Lessons and Tests",
-      "description_fa": "ویدئوی آموزشی حرکت‌شناسی همراه با تست.",
-      "description_en": "Educational video covering kinematics and practice tests.",
+      "title_en": "Shojaei - Kinematics Lessons + Tests",
+      "description_fa": "آموزش حرکت‌شناسی به همراه تست",
+      "description_en": "Kinematics lessons with practice tests",
       "type": "video",
       "url": "https://drive.google.com/uc?id=1BgO_KccEn9qz6LMoxGRxMnh801roGaUP&export=download",
       "enabled": true
@@ -24,8 +25,8 @@
       "id": "break-music",
       "title_fa": "آهنگ / موسیقی استراحت",
       "title_en": "Break Music",
-      "description_fa": "موسیقی برای زمان استراحت.",
-      "description_en": "Music to listen to during breaks.",
+      "description_fa": "موسیقی برای زمان استراحت",
+      "description_en": "Music for break time",
       "type": "audio",
       "url": "https://drive.google.com/uc?id=15a8uKFOJvYJe5iocSLM4M2PxRQ54t7zb&export=download",
       "enabled": true
