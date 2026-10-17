@@ -1,4 +1,15 @@
 {
   "schema_version": 1,
-  "resources": []
+  "resources": [
+    {
+      "id": "farzandan-physics-session-1",
+      "title_fa": "فیلم درسی فرزندان فیزیک - جلسه اول",
+      "title_en": "Farzandan Physics Lesson - Session 1",
+      "description_fa": "منبع آزمایشی برای بررسی بارگذاری و دانلود ویدئو در برنامه Md.",
+      "description_en": "Test resource for checking video loading and downloading in Md.",
+      "type": "video",
+      "url": "https://drive.google.com/uc?id=1dz47OsBpCL62qKtoZmVpkqoKnTIbxKLT&export=download",
+      "enabled": true
+    }
+  ]
 }
