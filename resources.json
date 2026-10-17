@@ -18,6 +18,25 @@
       "description_fa": "آموزش حرکت‌شناسی به همراه تست",
       "description_en": "Kinematics lessons with practice tests",
       "type": "video",
+      "url": "{
+      "id": "shojaei-kinematics-tests",
+      "title_fa": "شجاعی؛ آموزش حرکت‌شناسی + تست",
+      "title_en": "Shojaei - Kinematics Lessons + Tests",
+      "description_fa": "  دینامیک آموزش حرکت‌شناسی به همراه تست",
+      "description_en": "Kinematics lessons with practice tests",
+      "type": "video",
+      "url": "https://drive.google.com/uc?id=1BgO_KccEn9qz6LMoxGRxMnh801roGaUP&export=download",
+      "enabled": true
+    },",
+      "enabled": true
+    },
+    {
+      "id": "shojaei-kinematics-tests",
+      "title_fa": "شجاعی؛ آموزش حرکت‌شناسی + تست",
+      "title_en": "Shojaei - Kinematics Lessons + Tests",
+      "description_fa": "آموزش حرکت‌شناسی به همراه تست",
+      "description_en": "Kinematics lessons with practice tests",
+      "type": "video",
       "url": "https://drive.google.com/uc?id=1BgO_KccEn9qz6LMoxGRxMnh801roGaUP&export=download",
       "enabled": true
     },
