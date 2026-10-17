@@ -1,0 +1,31 @@
+{
+"schema_version": 1,
+"channels": [
+{
+"id": "telegram",
+"platform": "telegram",
+"name_fa": "تلگرام",
+"name_en": "Telegram",
+"url": "https://t.me/YOUR_CHANNEL",
+"deep_link": "tg://resolve?domain=YOUR_CHANNEL",
+"enabled": true
+},
+{
+"id": "rubika",
+"platform": "rubika",
+"name_fa": "روبیکا",
+"name_en": "Rubika",
+"url": "YOUR_REAL_RUBIKA_CHANNEL_HTTPS_URL",
+"deep_link": "",
+"enabled": true
+},
+{
+"id": "soroush",
+"platform": "soroush",
+"name_fa": "سروش",
+"name_en": "Soroush",
+"url": "YOUR_REAL_SOROUSH_CHANNEL_HTTPS_URL",
+"deep_link": "",
+"enabled": true
+}
+]
