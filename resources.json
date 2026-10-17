@@ -7,6 +7,16 @@
       "title_en": "Shojaei Notes",
       "description_fa": "جزوه آموزشی شجاعی",
       "description_en": "Shojaei educational notes",
+      
+{
+  "schema_version": 1,
+  "resources": [
+    {
+      "id": "shojaei-notes",
+      "title_fa": "جزوه شجاعی",
+      "title_en": "Shojaei Notes",
+      "description_fa": "جزوه آموزشی شجاعی",
+      "description_en": "Shojaei educational notes",
       "type": "pdf",
       "url": "https://drive.google.com/uc?id=1NAZj-6pZUHmMQXUiHQIJq6tGx7EQlUkW&export=download",
       "enabled": true
@@ -18,16 +28,33 @@
       "description_fa": "آموزش حرکت‌شناسی به همراه تست",
       "description_en": "Kinematics lessons with practice tests",
       "type": "video",
-      "url": "{
-      "id": "shojaei-kinematics-tests",
-      "title_fa": "شجاعی؛ آموزش حرکت‌شناسی + تست",
-      "title_en": "Shojaei - Kinematics Lessons + Tests",
-      "description_fa": "  دینامیک آموزش حرکت‌شناسی به همراه تست",
-      "description_en": "Kinematics lessons with practice tests",
+      "url": "https://drive.google.com/uc?id=1BgO_KccEn9qz6LMoxGRxMnh801roGaUP&export=download",
+      "enabled": true
+    },
+    {
+      "id": "shojaei-dynamics",
+      "title_fa": "دینامیک شجاعی؛ آموزش حرکت‌شناسی + تست",
+      "title_en": "Shojaei - Dynamics, Kinematics Lessons + Tests",
+      "description_fa": "آموزش دینامیک و حرکت‌شناسی به همراه تست",
+      "description_en": "Dynamics and kinematics lessons with practice tests",
       "type": "video",
       "url": "https://drive.google.com/uc?id=1BgO_KccEn9qz6LMoxGRxMnh801roGaUP&export=download",
       "enabled": true
-    },",
+    },
+    {
+      "id": "break-music",
+      "title_fa": "آهنگ / موسیقی استراحت",
+      "title_en": "Break Music",
+      "description_fa": "موسیقی برای زمان استراحت",
+      "description_en": "Music for break time",
+      "type": "audio",
+      "url": "https://drive.google.com/uc?id=15a8uKFOJvYJe5iocSLM4M2PxRQ54t7zb&export=download",
+      "enabled": true
+    }
+  ]
+}
+"type": "pdf",
+      "url": "https://drive.google.com/uc?id=1NAZj-6pZUHmMQXUiHQIJq6tGx7EQlUkW&export=download",
       "enabled": true
     },
     {
@@ -36,6 +63,16 @@
       "title_en": "Shojaei - Kinematics Lessons + Tests",
       "description_fa": "آموزش حرکت‌شناسی به همراه تست",
       "description_en": "Kinematics lessons with practice tests",
+      "type": "video",
+      "url": "https://drive.google.com/uc?id=1BgO_KccEn9qz6LMoxGRxMnh801roGaUP&export=download",
+      "enabled": true
+    },
+    {
+      "id": "shojaei-dynamics",
+      "title_fa": "دینامیک شجاعی؛ آموزش حرکت‌شناسی + تست",
+      "title_en": "Shojaei - Dynamics, Kinematics Lessons + Tests",
+      "description_fa": "آموزش دینامیک و حرکت‌شناسی به همراه تست",
+      "description_en": "Dynamics and kinematics lessons with practice tests",
       "type": "video",
       "url": "https://drive.google.com/uc?id=1BgO_KccEn9qz6LMoxGRxMnh801roGaUP&export=download",
       "enabled": true
