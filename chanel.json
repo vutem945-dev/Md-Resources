@@ -9,6 +9,15 @@
       "url": "https://t.me/Md_Konkori_1406",
       "deep_link": "tg://resolve?domain=Md_Konkori_1406",
       "enabled": true
+    },
+    {
+      "id": "soroush",
+      "platform": "soroush",
+      "name_fa": "سروش پلاس",
+      "name_en": "Soroush Plus",
+      "url": "https://splus.ir/Md_Konkory_1406",
+      "deep_link": "https://splus.ir/Md_Konkory_1406",
+      "enabled": true
     }
   ]
 }
