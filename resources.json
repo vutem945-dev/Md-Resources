@@ -4,9 +4,7 @@
     {
       "id": "shojaei-notes",
       "title_fa": "جزوه شجاعی",
-      "title_en": "Shojaei Notes",
       "description_fa": "جزوه آموزشی شجاعی",
-      "description_en": "Shojaei educational notes",
       "type": "pdf",
       "url": "https://drive.google.com/uc?id=1NAZj-6pZUHmMQXUiHQIJq6tGx7EQlUkW&export=download",
       "enabled": true
@@ -24,9 +22,7 @@
     {
       "id": "shojaei-dynamics",
       "title_fa": "دینامیک شجاعی؛ آموزش حرکت‌شناسی + تست",
-      "title_en": "Shojaei - Dynamics, Kinematics Lessons + Tests",
       "description_fa": "آموزش دینامیک و حرکت‌شناسی به همراه تست",
-      "description_en": "Dynamics and kinematics lessons with practice tests",
       "type": "video",
       "url": "https://drive.google.com/uc?id=1BgO_KccEn9qz6LMoxGRxMnh801roGaUP&export=download",
       "enabled": true
