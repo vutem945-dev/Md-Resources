@@ -6,8 +6,8 @@
       "platform": "telegram",
       "name_fa": "تلگرام",
       "name_en": "Telegram",
-      "url": "https://t.me/Md_Konkori_1406",
-      "deep_link": "tg://resolve?domain=Md_Konkori_1406",
+      "url": "https://t.me/Khordeh_Tajrobeha",
+      "deep_link": "tg://resolve?domain=Khordeh_Tajrobeha",
       "enabled": true
     },
     {
@@ -15,8 +15,8 @@
       "platform": "soroush",
       "name_fa": "سروش پلاس",
       "name_en": "Soroush Plus",
-      "url": "https://splus.ir/Md_Konkory_1406",
-      "deep_link": "https://splus.ir/Md_Konkory_1406",
+      "url": "https://splus.ir/Md_downloader",
+      "deep_link": "https://splus.ir/Md_downloader",
       "enabled": true
     }
   ]
