@@ -3,38 +3,38 @@
   "resources": [
     {
       "id": "shojaei-notes",
-      "title_fa": "جزوه شجاعی",
+      "title_fa": "دانلود Mardin در صورت قطعی داشته باشید",
       "description_fa": "جزوه آموزشی شجاعی",
-      "type": "pdf",
-      "url": "https://drive.google.com/uc?id=1NAZj-6pZUHmMQXUiHQIJq6tGx7EQlUkW&export=download",
+      "type": "app",
+      "url": "https://drive.google.com/uc?id=13D6FCSFvWUrpFf7JsluiU5ioSkWg2aLk&export=download",
       "enabled": true
     },
     {
       "id": "shojaei-kinematics-tests",
-      "title_fa": "شجاعی؛ آموزش حرکت‌شناسی + تست",
+      "title_fa": "زیست فرهمند سالیانه پارت1 جلسه 26",
       "title_en": "Shojaei - Kinematics Lessons + Tests",
-      "description_fa": "آموزش حرکت‌شناسی به همراه تست",
+      "description_fa": "زیست سالیانه",
       "description_en": "Kinematics lessons with practice tests",
       "type": "video",
-      "url": "https://drive.google.com/uc?id=1BgO_KccEn9qz6LMoxGRxMnh801roGaUP&export=download",
+      "url": "https://drive.google.com/uc?id=1G8-SyOsGmRtB13Ghnd55MtRH6BxMXyt4&export=download",
       "enabled": true
     },
     {
       "id": "shojaei-dynamics",
-      "title_fa": "دینامیک شجاعی؛ آموزش حرکت‌شناسی + تست",
-      "description_fa": "آموزش دینامیک و حرکت‌شناسی به همراه تست",
+      "title_fa": "27زیست فرهمند سالیانه پارت2 جلسه",
+      "description_fa": "زیست سالیانه",
       "type": "video",
-      "url": "https://drive.google.com/uc?id=1BgO_KccEn9qz6LMoxGRxMnh801roGaUP&export=download",
+      "url": "https://drive.google.com/uc?id=12wIOs0V29Jb-sc7XwLaXcLYW8lyqhWfg&export=download",
       "enabled": true
     },
     {
       "id": "break-music",
-      "title_fa": "آهنگ / موسیقی استراحت",
+      "title_fa": "زیست فرهمند سالیانه جلسه 26 دست نویس",
       "title_en": "Break Music",
-      "description_fa": "موسیقی برای زمان استراحت",
+      "description_fa": "دستنویس",
       "description_en": "Music for break time",
-      "type": "audio",
-      "url": "https://drive.google.com/uc?id=15a8uKFOJvYJe5iocSLM4M2PxRQ54t7zb&export=download",
+      "type": "pdf",
+      "url": "https://drive.google.com/uc?id=1dvoO9TTjqisMZ4dyAvVQAZh0Cxg_DN9g&export=download",
       "enabled": true
     }
   ]
